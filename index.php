@@ -19,13 +19,15 @@
     .shadow-soft{box-shadow:0 10px 25px rgba(0,0,0,.06);}
   </style>
   <!-- Favicon / App Icons -->
-<link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="192x192" href="/assets/favicon-192.png">
-<link rel="icon" type="image/png" sizes="512x512" href="/assets/favicon-512.png">
-<link rel="manifest" href="/assets/site.webmanifest">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="180x180" href="assets/favicon-180.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="assets/favicon-192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="assets/favicon-512.png">
+  <link rel="manifest" href="assets/site.webmanifest">
 
 
   <!-- Google Tag Manager (replace GTM-XXXXXXX with your container ID) -->
